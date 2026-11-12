@@ -1,0 +1,17 @@
+{
+  "title": "ChatGPT充值 / ChatGPT代充平台对比",
+  "updated": "2026-11-12",
+  "maintainer": "CZGPT (https://www.czgptai.com/) — 利益相关",
+  "official_usd_monthly": {"Plus": 20, "Pro_100": 100, "Pro_200": 200, "Pro_500": 500},
+  "platforms": [
+    {"name": "CZGPT", "url": "https://www.czgptai.com/", "plus": "官网实时价", "pro_100": "官网实时价", "pro_200": "官网实时价", "method": "卡密自动发货 + 自助激活", "password_required": false, "delivery": "约2分钟", "warranty": "30天质保", "payment": ["支付宝", "微信", "USDT"], "products": ["ChatGPT Plus", "ChatGPT Pro", "Codex", "ChatGPT Business", "Claude", "Gemini", "Grok", "Suno"]},
+    {"name": "GETGPT Pro", "plus": "¥179", "pro_100": "¥899", "pro_200": "¥1589", "method": "原账号升级", "password_required": false, "delivery": "1–5分钟", "warranty": "符合条件按剩余天数退款"},
+    {"name": "AIchongzhi", "plus": "¥178", "pro_100": "¥880", "pro_200": "¥1580", "method": "Plus卡密；Pro原账号", "password_required": "Pro不需要", "warranty": "Plus需24小时内使用"},
+    {"name": "PayForChat", "plus": "¥189–199", "pro_100": "¥899", "pro_200": "¥1620", "method": "原账号+临时凭证", "password_required": false, "delivery": "Plus 1–3分钟；Pro高档1–3小时", "warranty": "商家原因按已用天数折算退款"},
+    {"name": "GetPlus", "plus": "$22.14", "pro_100": "$119.68", "pro_200": "$206.45", "method": "充到用户自己账号", "password_required": false, "delivery": "3–5分钟", "warranty": "30天内补差或赔付"},
+    {"name": "星际放映厅", "plus": "¥195", "pro_200": "¥1800", "warranty": "称全程质保，无明确规则"},
+    {"name": "FamilyPro", "plus": "$23.19"},
+    {"name": "星桥订阅", "plus": "¥165起"}
+  ],
+  "sources": ["https://www.getplus.ai/chatgpt-daichong-duibi (核验于2026-08-08)", "https://familypro.io/cn/blog/chatgpt-top-up-platforms", "https://help.openai.com/zh-hans-cn/articles/6950777"]
+}
